@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #0D0D0E;
+}
+nav{
+    background-color: #0D0D0E;
+}
+header{
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 3;
+}
+.btn{
+    background-color: orangered;
+    color: white;
+    text-transform: uppercase;
+}
+.title{
+    font-size: 60px;
+}
+.card{
+    border: none;
+}
+input{
+    border: none;
+    outline: none;
+    color: white;
+    background-color: transparent;
+}
+.navbars{
+    margin-right: 300px;
+}
+.section{
+    width: 70%;
+    margin: 0 auto;
+}
+
